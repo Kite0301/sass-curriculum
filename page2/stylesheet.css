@@ -1,0 +1,23 @@
+.button-wrapper {
+  margin: 20px;
+  text-align: center; }
+.button-wrapper h3 {
+  margin-bottom: 15px;
+  color: #555; }
+.button-wrapper .button {
+  display: inline-block;
+  padding: 8px 24px;
+  color: white;
+  opacity: 0.8;
+  border-radius: 4px;
+  background-color: #de76aa;
+  cursor: pointer;
+  box-shadow: 0 7px #b94780; }
+.button-wrapper .button:hover {
+  opacity: 1; }
+.button-wrapper .button:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none; }
+
+/*# sourceMappingURL=stylesheet.css.map */
